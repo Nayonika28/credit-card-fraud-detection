@@ -46,7 +46,7 @@ The dataset contains **10,000 transactions** with features such as:
 
 ## ⚙️ Machine Learning Model
 
-* Algorithm Used: **Naive Bayes** *(update if different)*
+* Algorithm Used: Random Forest Classifier
 * Train-Test Split applied
 * Model trained and tested on dataset
 * Predictions made using `predict()`
@@ -55,7 +55,7 @@ The dataset contains **10,000 transactions** with features such as:
 
 ## 📊 Model Evaluation
 
-* **Accuracy: XX%** *(replace with your value)*
+* **Accuracy: 99.35%** *(replace with your value)*
 * Confusion Matrix
 * Classification Report
 
@@ -117,6 +117,7 @@ To build a system that helps in:
 * Integration with banking systems
 
 ---
+The model achieved high accuracy but faced challenges in detecting all fraud cases due to class imbalance.
 
 ## 👩‍💻 Author
 
